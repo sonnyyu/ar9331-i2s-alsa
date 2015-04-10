@@ -12,9 +12,13 @@ cd ~/Chaos_Calme/
 make menuconfig
 
 PACKAGE_kmod-ath79-pcm
+
 PACKAGE_kmod-ath79-i2s
+
 PACKAGE_kmod-ath79-i2s-dev
+
 PACKAGE_kmod-ath79-wm8727
+
 PACKAGE_kmod-ath79-carambola2
 
 make sure above module select.
