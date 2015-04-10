@@ -25,3 +25,8 @@ make sure above module select.
 
 make  -j 5  V=s 
 
+![ScreenShot](https://raw.githubusercontent.com/sonnyyu/ar9331-i2s-alsa/master/res/gpio.png)
+
+GPIO18~GPIO21
+
+![ScreenShot](https://raw.githubusercontent.com/sonnyyu/ar9331-i2s-alsa/master/res/hifi.jpg)
